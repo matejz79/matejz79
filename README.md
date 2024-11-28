@@ -1,4 +1,6 @@
 ## Hi there 👋
+dont have clue about git..if you wanna help, be my guest. 
+Currently fighting with repo creation, file addition and editing + commiting and pulling.
 
 <!--
 **matejz79/matejz79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
