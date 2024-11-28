@@ -2,6 +2,11 @@
 dont have clue about git..if you wanna help, be my guest. 
 Currently fighting with repo creation, file addition and editing + commiting and pulling.
 Editing works
+<br>
+Git extension didnt work as i planned..had trouble with everithing but cloning repo.
+<br>
+Using Github desktop works as intended.
+
 
 <!--
 **matejz79/matejz79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
